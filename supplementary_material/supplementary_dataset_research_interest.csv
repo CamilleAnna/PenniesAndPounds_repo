@@ -1,0 +1,28 @@
+"Supplementary dataset. Research attention, interest, and funding, for 13 antimicrobial classes. Sources for each indicator are listed below",,,,,,,,,,,
+,,,,,,,,,,,
+Drug Class,Consumption UNITS 2010,Years since class discovery (maximum),Total Active NIH projects,Total NIH Funding ($),Mean Altmetric Score,Mean Altmetric Mentions,Probability Altmetric,Sum papers post 2012,Sum papers pre 2012,Sum papers all years,Date searched Altmetric and Total Papers
+polymyxin,18318965,71,29,10332803,4.65625,29.375,0.1484375,2106,3082,5429,23/07/2017
+monobactam,99682403,37,51,21325797,NA,NA,NA,76,211,301,23/07/2017
+glycopeptide,141209338,65,7,4183959,1.987654,19.40741,0.03703704,1576,3388,5132,23/07/2017
+rifamycin,145578092,61,11,5281689,6,23.76471,0.11764706,1709,1758,3743,23/07/2017
+carbapenem,170351609,35,83,35869900,7.280261,22.74115,0.1424581,7287,3314,11216,23/07/2017
+aminoglycoside,702153959,74,27,12027305,2.785388,23.46119,0.0456621,3364,6276,10091,23/07/2017
+chloramphenicol,864766825,71,4,2220448,1.929825,14.42105,0.01754386,3429,17184,21137,23/07/2017
+tetracycline,4748638809,70,53,24943156,2.794466,24.88933,0.04347826,8026,22676,31913,23/07/2017
+trimethoprim,5032157110,57,15,8670206,3.617647,18.60784,0.04901961,4211,10232,15098,23/07/2017
+fluoroquinolone,7805570048,41,18,8640791,4.656542,22.28738,0.09579439,5056,6412,12125,23/07/2017
+macrolide,8476931998,66,25,10720395,5.464052,15.31373,0.08169935,3188,5939,9510,23/07/2017
+cephalosporin,17448016471,56,50,20695784,5.700441,23.82819,0.12334802,2901,6560,9921,23/07/2017
+penicillin,27609685085,90,78,31838906,3.266055,15.77982,0.05963303,7760,34524,43268,23/07/2017
+,,,,,,,,,,,
+Sources,,,,,,,,,,,
+Drug Class,"Class of antibiotic as identified in Van Boeckel et al (2014). The Lancet Infectious Diseases, 14(8), 742-750",,,,,,,,,,
+Consumption UNITS 2010,"Global antibiotic consumption data in 2010 from Van Boeckel et al (2014). The Lancet Infectious Diseases, 14(8), 742-750",,,,,,,,,,
+Total Active NIH projects,Total number of activel projects (searched July 2017) National Institutes of Health RePORTER database: https://report.nih.gov/index.aspx,,,,,,,,,,
+Total NIH Funding ($),Total funding alloted to (searched July 2017) National Institutes of Health RePORTER database: https://report.nih.gov/index.aspx,,,,,,,,,,
+Mean Altmetric Score,Mean of the Altmetric scores for papers on resistance to each drug class from Altmetric Explorer database: https://www.altmetric.com,,,,,,,,,,
+Mean Altmetric Mentions,Mean number of Altmetric mentions for papers on resistance to each drug class form Altmetric Explorer database: https://www.altmetric.com,,,,,,,,,,
+Probability Altmetric,Probability that a paper on resistance to a given drug class will be in top 10% of Altmetric scores,,,,,,,,,,
+Sum papers all years,Summed number of research papers on resistance to each drug class from ISI Web of Science database  ,,,,,,,,,,
+Sum papers post 2012,Summed number of research papers on resistance to each drug class from ISI Web of Science database  from 2012 onwards ,,,,,,,,,,
+Sum papers pre 2012,Summed number of research papers on resistance to each drug class from ISI Web of Science database pre 2012,,,,,,,,,,
