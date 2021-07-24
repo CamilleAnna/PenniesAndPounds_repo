@@ -13,19 +13,19 @@
 
 # simulations_output_samples
 
-Set of examples simulations output (RData files). Those are the ones used to produce example dynamics in figure 2c of the main text. Can be used to run do_dynamic_plots.R to visualise more examples of dynamics.
+Four examples of simulation output (RData files). Those are the ones used to produce example dynamics in figure 2c of the main text. Can be used to run do_dynamic_plots.R to visualise more examples of dynamics.
 
 
 # scripts
  
- ## 1_analytical_models
+ ### 1_analytical_models
 
  - **Analytical_results_mathematica.nb**: Mathematica notebooks analysing simple version of model. For each intervention, deriving analytical expression for equilibria and R0. Then evaluate R0 for the different possible epidemiological scenario. Basis of the "supplementary equation" section of paper's supplementary material. A pdf version is also provided.
-
+ 
  -**R0_manipulate_figures.nb**: mathematica code for interactive figures of R0
 
 
- ## 2_simulation_models
+ ### 2_simulation_models
 
  - **models.R**: models functions used in deSolve in the simulations script
  - **job_submission.sh**: SGE job submission script to launche simulation script in batches
